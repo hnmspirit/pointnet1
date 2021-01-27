@@ -15,7 +15,7 @@ unzip shapenetcore_partanno_segmentation_benchmark_v0
 python train_cls.py
 ```
 
-## inference and visualizer
+## inference and visualization
 ```
 python dashboard.py
 ```
